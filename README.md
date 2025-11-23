@@ -1,4 +1,4 @@
-# 🎥 Deepfake Detection with Deep Learning (FET312)
+# Deepfake Detection with Deep Learning (FET312)
 
 Bu proje, **FET312 Derin Öğrenme** dersi kapsamında, **FaceForensics++ (C23)** veri seti kullanılarak deepfake videoların tespit edilmesi amacıyla geliştirilmiştir. Proje, vize aşamasında temel (baseline) CNN modellerinin geliştirilmesini ve analiz edilmesini kapsamaktadır.
 
