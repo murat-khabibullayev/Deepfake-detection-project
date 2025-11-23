@@ -51,8 +51,7 @@ final projesinde Transfer Learning yöntemlerine geçiş yapılacaktır.
 Kurulum ve Kullanım (Installation)
 Kodlar Google Colab üzerinde çalıştırılmak üzere tasarlanmıştır. Çalıştırmak için:
 notebooks/ klasöründeki .ipynb dosyasını Google Colab'da açın.
-Gerekli kütüphaneleri yükleyin:
-!pip install face_recognition dlib torch torchvision opencv-python
+Ve ardından tüm kod hücrelerini ard arda çalıştırmanız yeterli.
 Kaggle API anahtarınızı (kaggle.json) yükleyerek veri setini indirin (Kod içerisinde adımlar mevcuttur).
 Tüm hücreleri sırasıyla çalıştırın.
 
