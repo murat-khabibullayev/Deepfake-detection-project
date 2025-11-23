@@ -7,8 +7,9 @@ Bu proje, **FET312 Derin Öğrenme** dersi kapsamında, **FaceForensics++ (C23)*
 | Ad Soyad                      | Öğrenci No  | Röller                            |
 |-------------------------------|-------------|-----------------------------------|
 | **Khaiitmurod Khabibullayev** | 22040101116 | Veri İşleme & **SimpleCNN**       |
-| **Muhammed Ali Cüre**         | 23040101006 | **BatchNormCNN** (LeakyReLU)      |
 | **Abdumajid Abdulkhaev**      | 22040101002 | **RescaledCNN** (Optimized Input) |
+| **Muhammed Ali Cüre**         | 23040101006 | **BatchNormCNN** (LeakyReLU)      |
+
 
 ---
 
